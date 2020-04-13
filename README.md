@@ -1,4 +1,4 @@
-<p align="center"><img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/92953721_2740184132747645_5183952756641103872_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_eui2=AeGaYGGHK0VdkZaiTWLPsi6sR02iOXdel4pHTaI5d16XinILw5mk5wJ5huWqd9Zd9tHdq5Bs5XA1Qg60zGfERSO-&_nc_ohc=HpCZkfWDwV4AX_Xo3i3&_nc_ht=scontent-cdg2-1.xx&oh=d420285bc6befc9c56d41b1a9acb5cc2&oe=5EB7C701" width="400"></p>
+<p align="center"><img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/92953721_2740184132747645_5183952756641103872_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_eui2=AeGaYGGHK0VdkZaiTWLPsi6sR02iOXdel4pHTaI5d16XinILw5mk5wJ5huWqd9Zd9tHdq5Bs5XA1Qg60zGfERSO-&_nc_ohc=HpCZkfWDwV4AX_Xo3i3&_nc_ht=scontent-cdg2-1.xx&oh=d420285bc6befc9c56d41b1a9acb5cc2&oe=5EB7C701" ></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
